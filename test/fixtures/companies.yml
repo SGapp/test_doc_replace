@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  capital_social: MyString
+  denomination_social: MyString
+  siege_social: MyString
+
+two:
+  capital_social: MyString
+  denomination_social: MyString
+  siege_social: MyString
